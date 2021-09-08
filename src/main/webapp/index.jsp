@@ -6,7 +6,7 @@
     <title>Tomcat</title>
     <style>
         body {
-            background-image: url('https://thumbor.forbes.com/thumbor/711x533/https://blogs-images.forbes.com/laurabegleybloom/files/2018/06/Bali-Sunset-JetsetChristina-Single-Fin-Uluwatu-Bali-1200x900.jpg?width=960');
+            background-image: url('https://media.istockphoto.com/vectors/girl-in-bikini-and-hat-resting-on-the-beach-summer-concept-vector-id1273300101?k=20&m=1273300101&s=612x612&w=0&h=ppHvj4xYhi8-91kSo1byhb-nDN1Bx8OXmSILJI-V4yI=');
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
